@@ -1,0 +1,30 @@
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.csproj.AssemblyReference.cache
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.AssemblyInfoInputs.cache
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.AssemblyInfo.cs
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.exe
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.deps.json
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.runtimeconfig.json
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.dll
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.pdb
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.dll
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\refint\Building Management System.dll
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.pdb
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.genruntimeconfig.cache
+C:\Users\ayesh\Desktop\C# with Bro Code\Building Management System\Building Management System\obj\Debug\net6.0\ref\Building Management System.dll
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.exe
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.deps.json
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.runtimeconfig.json
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.dll
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\bin\Debug\net6.0\Building Management System.pdb
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.csproj.AssemblyReference.cache
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.AssemblyInfoInputs.cache
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.AssemblyInfo.cs
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.dll
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\refint\Building Management System.dll
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.pdb
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\Building Management System.genruntimeconfig.cache
+C:\Users\ayesh\Desktop\V\SDA\Projects\Building Management System\Building Management System\obj\Debug\net6.0\ref\Building Management System.dll
